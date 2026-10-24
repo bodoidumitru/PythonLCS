@@ -1,6 +1,6 @@
 Text1,Text2
-OPLATA OOO ROMASHKA ZA USLUGI,ООО Ромашка оплата услуг
-PERECHISLENIE IP IVANOV,ИП Иванов перевод
-SPISANIE KOMISSIYA BANKA,Комиссия банка списание
-POSTUPLENIE OOO VECTOR,ООО Вектор поступление
-OPLATA AO SBERBANK,АО Сбербанк оплата
+OPLATA OOO ROMASHKA ZA USLUGI,OOO Romashka oplata uslug
+PERECHISLENIE IP IVANOV,IP Ivanov perevod
+SPISANIE KOMISSIYA BANKA,Komissiya banka spisanie
+POSTUPLENIE OOO VECTOR,OOO Vektor postuplenie
+OPLATA AO SBERBANK,AO Sberbank oplata
