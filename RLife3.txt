@@ -1,6 +1,6 @@
 Text1,Text2
-ГБ 2 ст. риск 3,Гипертоническая болезнь 2 стадии риск 3
-СД 2 типа,Сахарный диабет 2 типа
-ОРВИ,Острая респираторная вирусная инфекция
-ИБС стенокардия напряжения,Ишемическая болезнь сердца стенокардия напряжения
-Пневмония внебольничная,Внебольничная пневмония
+GB 2 st. risk 3,Gipertonicheskaya bolezn 2 stadii risk 3
+SD 2 tipa,Saharnyy diabet 2 tipa
+ORVI,Ostraya respiratornaya virusnaya infekciya
+IBS stenokardiya napryazheniya,Ishemicheskaya bolezn serdca stenokardiya napryazheniya
+Pnevmoniya vnebolnichnaya,Vnebolnichnaya pnevmoniya
