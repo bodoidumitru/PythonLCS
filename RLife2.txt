@@ -1,0 +1,6 @@
+Text1,Text2
+for i in range(10): print(i),for j in range(10): print(j)
+def add(a,b): return a+b,def sum(x,y): return x+y
+if x > 0: print("positive"),if value > 0: print("positive")
+while True: break,while True: break
+import math; print(math.pi),import math; print(math.pi)
